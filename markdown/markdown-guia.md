@@ -25,7 +25,7 @@
 * Você pode usar tags **HTML** no Markdown se precisar. (A tag `<br/>` é muito útil para a quebra de linhas)
 * Você pode usar emojis em Markdown 😉😮. [Pegue alguns aqui](https://emojipedia.org/).
 * Qualquer URL será convertido em um link clicável. Ex: github.com/nicolaswalcker.
-* As tabelas tem a propriedade de alinhamento de elementos nas células. Veja como fica: ![Tabela e propriedades](https://i.imgur.com/jyJKFO3.png)
+* As tabelas tem a propriedade de alinhamento de elementos nas células. Veja como fica: <br/> ![Tabela e propriedades](https://i.imgur.com/jyJKFO3.png)
 
 
 
