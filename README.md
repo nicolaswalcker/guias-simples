@@ -11,7 +11,7 @@
 
 ## Seja um contribuidor 🤝
 
-Para fazer parte do projeto, clique [AQUI]() para saber mais.
+Para fazer parte do projeto, clique [AQUI](https://github.com/nicolaswalcker/project-readme/blob/main/CONTRIBUIR.md) para saber mais.
 ## Licença 📜
 
 Este projeto está sob licença, clique [AQUI](https://github.com/nicolaswalcker/project-readme/blob/main/LICENSE) para mais detalhes.
