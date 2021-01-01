@@ -21,7 +21,7 @@
 ### Mais dicas
 
 * Você pode colocar vídeos do YouTube no seu documento mas ele precisa de mais trabalho!  
-  `Você não pode adicionar um vídeo direto mas você pode juntar uma imagem com o link do vídeo, como por exemplo: <a href="LINK_DO_VIDEO" target="_blank"><img src="https://i.imgur.com/PIOafIe.jpeg" alt="vaca" width="130"></a>.`
+  ```Você não pode adicionar um vídeo direto mas você pode juntar uma imagem com o link do vídeo, como por exemplo: <a href="LINK_DO_VIDEO" target="_blank"><img src="https://i.imgur.com/PIOafIe.jpeg" alt="vaca" width="130"></a>.```
 * Você pode usar tags **HTML** no Markdown se precisar. (A tag `<br/>` é muito útil para a quebra de linhas)
 * Você pode usar emojis em Markdown 😉😮. [Pegue alguns aqui](https://emojipedia.org/).
 * Qualquer URL será convertido em um link clicável. Ex: github.com/nicolaswalcker.
@@ -33,7 +33,7 @@
 * Se quiser praticar, acesse o [link](https://www.markdowntutorial.com/)!
 * Você pode adicionar alguns *badges* nos seus documentos. Aqui tem um pequeno guia sobre eles.
   
-  [![Badge](https://img.shields.io/badge/Clique_aqui-%231877F2.svg?&style=flat-square&logo=&logoColor=black&color=9BFF0A)](#)
+  [![Badge](https://img.shields.io/badge/Clique_aqui-%231877F2.svg?&style=flat-square&logo=&logoColor=black&color=9BFF0A)](https://github.com/nicolaswalcker/project-readme/blob/main/badges/badges-guia.md)
   
 
 
