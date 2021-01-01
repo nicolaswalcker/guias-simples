@@ -9,4 +9,9 @@
 [![Badges](https://img.shields.io/badge/BADGES-%23FFac45.svg?&style=for-the-badge&color=pink)](https://github.com/nicolaswalcker/project-readme/blob/main/badges/badges-guia.md)
 ---
 
+## Seja um contribuidor 🤝
 
+Para fazer parte do projeto, clique [AQUI]() para saber mais.
+## Licença 📜
+
+Este projeto está sob licença, clique [AQUI](https://github.com/nicolaswalcker/project-readme/blob/main/LICENSE) para mais detalhes.

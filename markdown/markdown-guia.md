@@ -4,7 +4,7 @@
 |------|:-----|:-----:|
 | Negrito | `**negrito**` | **negrito** |
 | Itálico | `*itálico*` | *itálico* |
-| Imagens | `[Nome da imagem](url to img)` | ![GitHub Logo](https://icon-icons.com/icons2/936/PNG/72/github-logo_icon-icons.com_73546.png) |
+| Imagens | `![Nome da imagem](url to img)` | ![GitHub Logo](https://icon-icons.com/icons2/936/PNG/72/github-logo_icon-icons.com_73546.png) |
 | Links em linha| `[Texto de descrição](url aqui)` | [Meu Github](https://github.com/nicolaswalcker)|
 | Imagem + link | `[![Nome da Imagem](url da img)](url da página)` | [![GitHub Logo](https://icon-icons.com/icons2/936/PNG/72/github-logo_icon-icons.com_73546.png)](https://github.com/nicolaswalcker) |
 | Quebra de linha | Duplo espaço + enter | 
@@ -31,6 +31,7 @@
 
 * Em Markdown, temos um suporte muito bom para **tabelas**, mas essa não é a especialidade da linguagem. Caso precise de algo mais complexo, use outra ferramenta.
 * Se quiser praticar, acesse o [link](https://www.markdowntutorial.com/)!
+* Você pode adicionar GIFs animados em seu documento. <br/> <img src="https://media3.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" alt="Gif Developer" width="180px"> <br/>Você pode usar a tag **img** do HTML. Com ela você pode redimensionar seus GIFs como quiser. <br/> Por exemplo: ```<img src="https://media3.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" alt="Gif" width="180px">```
 * Você pode adicionar alguns *badges* nos seus documentos. Aqui tem um pequeno guia sobre eles.
   
   [![Badge](https://img.shields.io/badge/Clique_aqui-%231877F2.svg?&style=flat-square&logo=&logoColor=black&color=9BFF0A)](https://github.com/nicolaswalcker/project-readme/blob/main/badges/badges-guia.md)
