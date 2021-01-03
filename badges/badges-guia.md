@@ -50,5 +50,5 @@
 
 `![Github](https://img.shields.io/badge/Github-%231877F2.svg?&style=flat-square&logo=github&logoColor=white&color=black)`
 
-##### Mais badges [aqui](https://github.com/iuricode/README-template/blob/main/badges/badges.md)!
+##### Mais badges [aqui](https://github.com/nicolaswalcker/project-readme/blob/main/badges/badges-prontos.md)!
 
