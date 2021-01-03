@@ -35,6 +35,7 @@
 * Você pode adicionar alguns *badges* nos seus documentos. Aqui tem um pequeno guia sobre eles.
   
   [![Badge](https://img.shields.io/badge/Clique_aqui-%231877F2.svg?&style=flat-square&logo=&logoColor=black&color=9BFF0A)](https://github.com/nicolaswalcker/project-readme/blob/main/badges/badges-guia.md)
+  ---
   
 
 
