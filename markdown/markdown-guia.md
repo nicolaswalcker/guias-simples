@@ -1,7 +1,7 @@
 ## Guia rápido de Markdown
 
 | Formato | Sintaxe | Preview |
-|------|:-----|:-----:|
+|------|:-----|:-----|
 | Negrito | `**negrito**` | **negrito** |
 | Itálico | `*itálico*` | *itálico* |
 | Imagens | `![Nome da imagem](url to img)` | ![GitHub Logo](https://icon-icons.com/icons2/936/PNG/72/github-logo_icon-icons.com_73546.png) |
