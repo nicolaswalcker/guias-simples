@@ -16,7 +16,7 @@
 | Bloco de código | \`\`\`insert code\`\`\` |Os códigos podem ter comportamentos diferentes nas versões de Markdown e em outros lugares|
 | cabeçalhos | `# ## ### #### ##### ######` = (h1 - h6) | <h3>Este é um cabeçalho h3</h3> |
 | Riscado | `~~riscado~~` | ~~riscado~~ |
-| Tabelas | \| Nome \| preço \| estoque \| \|\----------\|\:\-------------\:\|------\:\| \|  Produto1 \|  R$10,00 \| 5 unidades \|| ![Tabela](https://i.imgur.com/9YS6Zm2.png) |
+| Tabelas | \| Nome \| preço \| estoque \| \|\-----\|\:\-----\:\|-----\:\| \|  Produto1 \|  R$10,00 \| 5 unidades \|| ![Tabela](https://i.imgur.com/9YS6Zm2.png) |
 
 ### Mais dicas
 
