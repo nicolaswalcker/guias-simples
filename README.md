@@ -1,6 +1,6 @@
-## Como fazer um README para seu perfil ou para seu repositório 😎
+## Alguns templates de READMES para você usar 😎
 
-## Escolha o tipo que quer
+## Escolha o README que procura 💛
 [![Perfil](https://img.shields.io/badge/PERFIL-%23FFac45.svg?&style=for-the-badge&color=FFB000)]()
 [![Repositório](https://img.shields.io/badge/REPOSITÓRIO-%23FFac45.svg?&style=for-the-badge&color=88FF00)]()
 ---
